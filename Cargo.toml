@@ -1,0 +1,8 @@
+[package]
+name = "genetype"
+version = "0.1.0"
+authors = ["Dylan Maccora <maccora17@gmail.com>"]
+
+[dependencies.serde_json]
+version = "1.0.2"
+features = ["preserve_order"]

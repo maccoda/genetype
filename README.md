@@ -1,4 +1,5 @@
 # Genetype
+ [![Travis Linux](https://img.shields.io/travis/maccoda/made-up.svg)](https://travis-ci.org/maccoda/genetype)
 
 Small project to generate rust types from JSON objects. Requirement derived from
 development of webhook that communicates via JSON payload, thought it would be
